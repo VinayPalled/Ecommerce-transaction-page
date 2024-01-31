@@ -1,0 +1,8 @@
+.foodItem {
+    display: inline-block; margin: 10px;
+    }
+    
+    .foodImage {
+    max-width: 100px; height: auto;
+    }
+    
